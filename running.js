@@ -4,3 +4,5 @@ var runYourselfSilly = function(how_far) {
 runYourselfSilly(20);
 
 
+"I'm running myself silly too"
+
